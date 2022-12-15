@@ -1,4 +1,4 @@
-var a=10,b=15;
+var x=10,x=20;
 function swap(x, y) {
     return [x, y]
   }
